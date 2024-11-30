@@ -5,7 +5,7 @@ source "https://rubygems.org"
 
  gem "activestorage"
  gem "bootstrap-sass", "~> 3.4.1"
- gem "coffee-rails", "~> 4.2"
+ gem "coffee-rails", "~> 5.0"
  gem "faker"
  gem "jbuilder"
  gem "jquery-rails"
